@@ -41,3 +41,6 @@ There are 4 main improvements to come :
 * Gestion of authorizations on data and development for role created 
 
 
+# Now go to both part of the projet and test them ! 
+
+
