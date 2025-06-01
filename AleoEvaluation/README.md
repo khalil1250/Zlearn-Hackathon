@@ -1,3 +1,6 @@
+
+Most blockchain uses are unvailable for most people because of complexity and knowledge. Our goal was thus to make a user-friendly app that allows different depth of interaction depending on the knowledge of the user. Please keep in mind this is just a prototype so you may encounter bugs.
+
 # React + Aleo + Leo
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/ProvableHQ/sdk/tree/mainnet/create-leo-app/template-react)
